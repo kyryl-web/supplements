@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/kyryl-web/supplements/static/css/main.ea826b2d.css",
+    "main.js": "/kyryl-web/supplements/static/js/main.ccab3dc4.js",
+    "static/media/delete.svg": "/kyryl-web/supplements/static/media/delete.212c8821d736f8b11fbebad7e3d13d5b.svg",
+    "static/media/plus.svg": "/kyryl-web/supplements/static/media/plus.7083a461607b11edf9695e635779f861.svg",
+    "index.html": "/kyryl-web/supplements/index.html",
+    "static/media/burger.svg": "/kyryl-web/supplements/static/media/burger.fc12fbd678bea2ce4ec9524cbe12a170.svg",
+    "static/media/dots.svg": "/kyryl-web/supplements/static/media/dots.c6f0f0c235428bc940725147fbe58524.svg",
+    "main.ea826b2d.css.map": "/kyryl-web/supplements/static/css/main.ea826b2d.css.map",
+    "main.ccab3dc4.js.map": "/kyryl-web/supplements/static/js/main.ccab3dc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea826b2d.css",
+    "static/js/main.ccab3dc4.js"
+  ]
+}
